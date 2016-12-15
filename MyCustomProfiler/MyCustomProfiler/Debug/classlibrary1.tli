@@ -1,0 +1,19 @@
+﻿// Created by Microsoft (R) C/C++ Compiler Version 14.00.24215.1 (b9eaac3b).
+//
+// c:\users\kbalcero\documents\visual studio 2015\projects\win32project1\win32project1\debug\classlibrary1.tli
+//
+// Wrapper implementations for Win32 type library ../Debug/ClassLibrary1.tlb
+// compiler-generated file created 11/22/16 at 10:18:08 - DO NOT EDIT!
+
+#pragma once
+
+//
+// interface ILog wrapper method implementations
+//
+
+inline __int64 ILog::log ( _bstr_t funcName, long callstacklevel ) {
+    __int64 _result = 0;
+    HRESULT _hr = raw_log(funcName, callstacklevel, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}

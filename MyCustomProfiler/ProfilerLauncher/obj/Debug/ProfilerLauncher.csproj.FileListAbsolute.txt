@@ -1,0 +1,12 @@
+C:\Users\kbalcero\Documents\Visual Studio 2015\Projects\Win32Project1\Debug\ProfilerLauncher.exe.config
+C:\Users\kbalcero\Documents\Visual Studio 2015\Projects\Win32Project1\Debug\ProfilerLauncher.exe
+C:\Users\kbalcero\Documents\Visual Studio 2015\Projects\Win32Project1\Debug\ProfilerLauncher.pdb
+C:\Users\kbalcero\Documents\Visual Studio 2015\Projects\Win32Project1\ProfilerLauncher\obj\Debug\ProfilerLauncher.csprojResolveAssemblyReference.cache
+C:\Users\kbalcero\Documents\Visual Studio 2015\Projects\Win32Project1\ProfilerLauncher\obj\Debug\ProfilerLauncher.exe
+C:\Users\kbalcero\Documents\Visual Studio 2015\Projects\Win32Project1\ProfilerLauncher\obj\Debug\ProfilerLauncher.pdb
+C:\Users\kbalcero\Documents\Visual Studio 2015\Projects\MyCustomProfiler\Debug\ProfilerLauncher.exe.config
+C:\Users\kbalcero\Documents\Visual Studio 2015\Projects\MyCustomProfiler\ProfilerLauncher\obj\Debug\ProfilerLauncher.exe
+C:\Users\kbalcero\Documents\Visual Studio 2015\Projects\MyCustomProfiler\ProfilerLauncher\obj\Debug\ProfilerLauncher.pdb
+C:\Users\kbalcero\Documents\Visual Studio 2015\Projects\MyCustomProfiler\Debug\ProfilerLauncher.exe
+C:\Users\kbalcero\Documents\Visual Studio 2015\Projects\MyCustomProfiler\Debug\ProfilerLauncher.pdb
+C:\Users\kbalcero\Documents\Visual Studio 2015\Projects\MyCustomProfiler\ProfilerLauncher\obj\Debug\ProfilerLauncher.csprojResolveAssemblyReference.cache

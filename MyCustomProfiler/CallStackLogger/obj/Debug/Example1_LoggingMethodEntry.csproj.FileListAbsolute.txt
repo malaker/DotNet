@@ -1,0 +1,9 @@
+C:\Users\kbalcero\documents\visual studio 2015\Projects\Win32Project1\PROFILE_LAUNCHER\obj\Debug\Example1_LoggingMethodEntry.exe
+C:\Users\kbalcero\documents\visual studio 2015\Projects\Win32Project1\PROFILE_LAUNCHER\obj\Debug\Example1_LoggingMethodEntry.pdb
+C:\Users\kbalcero\documents\visual studio 2015\Projects\Win32Project1\PROFILE_LAUNCHER\obj\Debug\Example1_LoggingMethodEntry.csprojResolveAssemblyReference.cache
+C:\Users\kbalcero\Documents\Visual Studio 2015\Projects\Win32Project1\Debug\Example1_LoggingMethodEntry.exe.config
+C:\Users\kbalcero\Documents\Visual Studio 2015\Projects\Win32Project1\Debug\Example1_LoggingMethodEntry.exe
+C:\Users\kbalcero\Documents\Visual Studio 2015\Projects\Win32Project1\Debug\Example1_LoggingMethodEntry.pdb
+C:\Users\kbalcero\Documents\Visual Studio 2015\Projects\Win32Project1\CallStackLogger\obj\Debug\Example1_LoggingMethodEntry.csprojResolveAssemblyReference.cache
+C:\Users\kbalcero\Documents\Visual Studio 2015\Projects\Win32Project1\CallStackLogger\obj\Debug\Example1_LoggingMethodEntry.exe
+C:\Users\kbalcero\Documents\Visual Studio 2015\Projects\Win32Project1\CallStackLogger\obj\Debug\Example1_LoggingMethodEntry.pdb

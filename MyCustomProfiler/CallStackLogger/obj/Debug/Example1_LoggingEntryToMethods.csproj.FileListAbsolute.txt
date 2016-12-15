@@ -1,0 +1,5 @@
+C:\Users\kbalcero\documents\visual studio 2015\Projects\Win32Project1\Debug\PROFILE_LAUNCHER.exe.config
+C:\Users\kbalcero\documents\visual studio 2015\Projects\Win32Project1\Debug\PROFILE_LAUNCHER.exe
+C:\Users\kbalcero\documents\visual studio 2015\Projects\Win32Project1\Debug\PROFILE_LAUNCHER.pdb
+C:\Users\kbalcero\documents\visual studio 2015\Projects\Win32Project1\PROFILE_LAUNCHER\obj\Debug\PROFILE_LAUNCHER.exe
+C:\Users\kbalcero\documents\visual studio 2015\Projects\Win32Project1\PROFILE_LAUNCHER\obj\Debug\PROFILE_LAUNCHER.pdb

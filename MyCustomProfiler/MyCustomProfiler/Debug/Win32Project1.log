@@ -1,0 +1,24 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Win32Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  factory.cpp
+c:\program files (x86)\windows kits\8.1\include\um\corhdr.h(1849): warning C4091: 'typedef ': ignored on left of 'NGenHintEnum' when no variable is declared
+c:\program files (x86)\windows kits\8.1\include\um\corhdr.h(1858): warning C4091: 'typedef ': ignored on left of 'LoadHintEnum' when no variable is declared
+c:\program files (x86)\windows kits\8.1\include\um\corhdr.h(1907): warning C4091: 'typedef ': ignored on left of 'NativeTypeArrayFlags' when no variable is declared
+  Source.cpp
+c:\program files (x86)\windows kits\8.1\include\um\corhdr.h(1849): warning C4091: 'typedef ': ignored on left of 'NGenHintEnum' when no variable is declared
+c:\program files (x86)\windows kits\8.1\include\um\corhdr.h(1858): warning C4091: 'typedef ': ignored on left of 'LoadHintEnum' when no variable is declared
+c:\program files (x86)\windows kits\8.1\include\um\corhdr.h(1907): warning C4091: 'typedef ': ignored on left of 'NativeTypeArrayFlags' when no variable is declared
+  MyCustomProfilerImpl.cpp
+c:\program files (x86)\windows kits\8.1\include\um\corhdr.h(1849): warning C4091: 'typedef ': ignored on left of 'NGenHintEnum' when no variable is declared
+c:\program files (x86)\windows kits\8.1\include\um\corhdr.h(1858): warning C4091: 'typedef ': ignored on left of 'LoadHintEnum' when no variable is declared
+c:\program files (x86)\windows kits\8.1\include\um\corhdr.h(1907): warning C4091: 'typedef ': ignored on left of 'NativeTypeArrayFlags' when no variable is declared
+c:\users\kbalcero\documents\visual studio 2015\projects\win32project1\mycustomprofiler\mycustomprofilerimpl.cpp(230): warning C4018: '<': signed/unsigned mismatch
+c:\users\kbalcero\documents\visual studio 2015\projects\win32project1\mycustomprofiler\mycustomprofilerimpl.cpp(300): warning C4018: '<': signed/unsigned mismatch
+c:\users\kbalcero\documents\visual studio 2015\projects\win32project1\mycustomprofiler\mycustomprofilerimpl.cpp(473): warning C4101: 'meta': unreferenced local variable
+  Generating Code...
+c:\users\kbalcero\documents\visual studio 2015\projects\win32project1\mycustomprofiler\mycustomprofilerimpl.cpp(482): warning C4700: uninitialized local variable 'methodDef' used
+  dllmain.cpp
+     Creating library C:\Users\kbalcero\Documents\Visual Studio 2015\Projects\Win32Project1\Debug\MyCustomProfiler.lib and object C:\Users\kbalcero\Documents\Visual Studio 2015\Projects\Win32Project1\Debug\MyCustomProfiler.exp
+MyCustomProfiler.exp : warning LNK4070: /OUT:Win32Project1.dll directive in .EXP differs from output filename 'C:\Users\kbalcero\Documents\Visual Studio 2015\Projects\Win32Project1\Debug\MyCustomProfiler.dll'; ignoring directive
+corguids.lib(corprof_i.obj) : warning LNK4099: PDB 'corguids.pdb' was not found with 'corguids.lib(corprof_i.obj)' or at 'C:\Users\kbalcero\Documents\Visual Studio 2015\Projects\Win32Project1\Debug\corguids.pdb'; linking object as if no debug info
+  Win32Project1.vcxproj -> C:\Users\kbalcero\Documents\Visual Studio 2015\Projects\Win32Project1\Debug\MyCustomProfiler.dll
+  Win32Project1.vcxproj -> C:\Users\kbalcero\Documents\Visual Studio 2015\Projects\Win32Project1\Debug\MyCustomProfiler.pdb (Full PDB)

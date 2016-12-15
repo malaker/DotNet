@@ -1,0 +1,1 @@
+GO to Debug/Release directory and run regsvr32 MyCustomProfiler.dll

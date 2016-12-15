@@ -1,0 +1,76 @@
+﻿// Created by Microsoft (R) C/C++ Compiler Version 14.00.24215.1 (b9eaac3b).
+//
+// c:\users\kbalcero\documents\visual studio 2015\projects\win32project1\win32project1\debug\classlibrary1.tlh
+//
+// C++ source equivalent of Win32 type library ../Debug/ClassLibrary1.tlb
+// compiler-generated file created 11/22/16 at 10:18:08 - DO NOT EDIT!
+
+#pragma once
+#pragma pack(push, 8)
+
+#include <comdef.h>
+
+//
+// Forward references and typedefs
+//
+
+struct __declspec(uuid("b63d36e2-80ed-4e31-9407-9e51dba84863"))
+/* LIBID */ __ClassLibrary1;
+struct __declspec(uuid("801f8dce-26ea-40ca-892b-a92059cfd006"))
+/* dual interface */ ILog;
+struct /* coclass */ LoggerCom;
+
+//
+// Smart pointer typedef declarations
+//
+
+_COM_SMARTPTR_TYPEDEF(ILog, __uuidof(ILog));
+
+//
+// Type library items
+//
+
+struct __declspec(uuid("801f8dce-26ea-40ca-892b-a92059cfd006"))
+ILog : IDispatch
+{
+    //
+    // Wrapper methods for error-handling
+    //
+
+    __int64 log (
+        _bstr_t funcName,
+        long callstacklevel );
+
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall raw_log (
+        /*[in]*/ BSTR funcName,
+        /*[in]*/ long callstacklevel,
+        /*[out,retval]*/ __int64 * pRetVal ) = 0;
+};
+
+struct __declspec(uuid("d0632868-cb23-40f5-aa31-f2807060862b"))
+LoggerCom;
+    // interface _Object
+    // [ default ] interface ILog
+
+//
+// Named GUID constants initializations
+//
+
+extern "C" const GUID __declspec(selectany) LIBID_ClassLibrary1 =
+    {0xb63d36e2,0x80ed,0x4e31,{0x94,0x07,0x9e,0x51,0xdb,0xa8,0x48,0x63}};
+extern "C" const GUID __declspec(selectany) IID_ILog =
+    {0x801f8dce,0x26ea,0x40ca,{0x89,0x2b,0xa9,0x20,0x59,0xcf,0xd0,0x06}};
+extern "C" const GUID __declspec(selectany) CLSID_LoggerCom =
+    {0xd0632868,0xcb23,0x40f5,{0xaa,0x31,0xf2,0x80,0x70,0x60,0x86,0x2b}};
+
+//
+// Wrapper method implementations
+//
+
+#include "c:\users\kbalcero\documents\visual studio 2015\projects\win32project1\win32project1\debug\classlibrary1.tli"
+
+#pragma pack(pop)
